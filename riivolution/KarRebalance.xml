@@ -1,0 +1,16 @@
+<wiidisc version="1">
+	<id game="GKY" />
+	<options>
+		<section name="Mod">
+			<option name="KAR Rebalanced">
+				<choice name="Enabled">
+					<patch id="files" />
+				</choice>
+			</option>
+		</section>
+	</options>
+	<patch id="files">
+		<folder external="/KarRebalance" recursive="true" />
+		<folder external="/KarRebalance" disc="/" create="true" recursive="true"/>
+	</patch>
+</wiidisc>
