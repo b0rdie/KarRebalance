@@ -1,5 +1,5 @@
 # KAR Rebalanced/Project K
-An admittedly small Riivolution patch designed for KAR-Deluxe (but still usable in vanilla) which rebalances most vehicles in subtle ways which emphasize the roles that each machine play. This also changes most of Kirby's walk params as well as some parameters pertaining to Dedede and MK.
+An admittedly small Riivolution patch designed for KAR-Deluxe (but still usable in vanilla) that rebalances most vehicles in subtle ways which emphasize the roles that each machine play. This also changes most of Kirby's walk params as well as some parameters pertaining to Dedede and MK.
 
 Stars where I didn't see noticeable flaws, major or minor, and didn't require any mitigations were not touched. These stars are:
 - Jet star
