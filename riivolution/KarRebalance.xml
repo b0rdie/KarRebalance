@@ -12,5 +12,6 @@
 	<patch id="files">
 		<folder external="/KarRebalance" recursive="true" />
 		<folder external="/KarRebalance" disc="/" create="true" recursive="true"/>
+		<memory value="00895440" offset="0x80497efc" />
 	</patch>
 </wiidisc>
